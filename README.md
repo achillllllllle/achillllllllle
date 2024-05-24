@@ -1,5 +1,5 @@
 ## Introduction 👋
-Hello! I'm a computer science student at Sorbonne Université in Paris, with a passion for web development and cybersecurity. I'm currently seeking an apprenticeship opportunity where I can apply and further develop my skills in these areas.
+Hello! I'm a computer science student at Sorbonne Université in Paris, with a passion for *web development* and cybersecurity. I'm currently seeking an apprenticeship opportunity to be a *developer*, preferably in an organization with a strong cybersecurity focus.
 
 ## Skills and Experience 💻
 * I have experience with a range of web development technologies, including:
