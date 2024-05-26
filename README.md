@@ -15,4 +15,4 @@ I'm also working as a teaching assistant (TA) at Le Wagon, a web development boo
 This role has taught me valuable skills in pedagogy and teamwork, and has helped me to further develop my own web development and problem-solving abilities.
 
 ## Connect with Me 🔗
-LinkedIn: [https://www.linkedin.com/in/oscar-fonty/]
+LinkedIn: https://www.linkedin.com/in/oscar-fonty/
