@@ -5,7 +5,7 @@ Hello! I'm a computer science student at Sorbonne Université in Paris, with a p
 * I have experience with a range of web development technologies, including:
   * Spring
   * Ruby on Rails
-* You can check out my previous projects in my portfolio ([https://achillle.notion.site/Portfolio-da3e456595f34e0a9b1da85e5ca05a25]).
+* You can check out my previous projects in my portfolio (https://achillle.notion.site/Portfolio-da3e456595f34e0a9b1da85e5ca05a25).
 * I'm currently learning cybersecurity, with the goal of pursuing a master's degree in the field next year.
 
 ## Current Role 🏫
