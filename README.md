@@ -3,4 +3,5 @@ Hello! I am a Master's student in Computer Science, specializing in Cybersecurit
 
 ## Connect with Me 🔗
 LinkedIn: https://www.linkedin.com/in/oscar-fonty/
+
 TryHackMe: https://tryhackme.com/p/achillle
